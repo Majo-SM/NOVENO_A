@@ -30,6 +30,6 @@ spec:
                   key: MONGO_PASSWORD
             - name: MONGO_INITDB_DATABASE_NAME
               valueFrom:
-                secretKeyRef:
-                  name: mongo-config
+                configMapKeyRef:
+                  name: mongoc
                   key: MONGO_DATABASE

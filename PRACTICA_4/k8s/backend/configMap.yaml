@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: backend-config
 data:
-  MONGO_SERVICE: 'mongodb+srv://kubernetes:clave@mongodb-service/?retryWrites=true&w=majority'
+  MONGO_SERVICE: mongodb+srv://kubernetes:clave@mongodb-service/?retryWrites=true&w=majority
