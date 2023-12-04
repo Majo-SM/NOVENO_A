@@ -32,3 +32,5 @@ Verificar que la imagen se encuentra en DockerHub.
 ![Alt text](image-9.png)
 ![Alt text](image-8.png)
 ![Alt text](image-7.png)
+
+enlace de repositorio de prueba: https://github.com/Majo-SM/PRUEBA_4.2.git
